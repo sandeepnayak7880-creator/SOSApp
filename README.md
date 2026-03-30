@@ -1,0 +1,50 @@
+<img width="770" height="629" alt="image" src="https://github.com/user-attachments/assets/ce1c2663-8386-4f81-9ada-15d155030874" /># SOSApp - Emergency Response System 🚨
+
+A robust, real-time Android emergency application designed to provide immediate assistance during critical situations. This app automates the process of notifying emergency contacts with location data via SMS and WhatsApp.
+
+## 🌟 Key Features
+
+- **One-Tap SOS:** Large, high-visibility button for instant activation.
+- <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/21ba6a8d-087b-43e2-8cdc-b67a5222334f" />
+
+- **Shake Detection:** Built-in accelerometer support to trigger an SOS by shaking the phone—no screen interaction required.
+
+-  <img width="770" height="629" alt="image" src="https://github.com/user-attachments/assets/2dd38198-e096-461a-af34-a030337d7abb" />
+  <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/939afc90-1d11-4c61-a20c-5f8f8f57207b" />
+
+- **Multi-Channel Alerts:** Automatically sends emergency messages via **SMS** and **WhatsApp** simultaneously.
+- **Live Location Tracking:** Integrates Google Maps API to send precise GPS coordinates to your saved contacts.
+- **Smart Queueing:** If the user has no signal, the app caches the SOS request and sends it automatically once a network connection is restored.
+
+- <img width="770" height="493" alt="image" src="https://github.com/user-attachments/assets/ab289992-e707-49d6-8b95-14fee2003cdc" />
+
+- **Periodic Updates:** Automatically sends follow-up location updates every 5 minutes for 15 minutes.
+- **Emergency Auto-Dial:** Initiates a phone call to primary contacts and a delayed auto-dial to emergency services (112).
+
+- <img width="770" height="571" alt="image" src="https://github.com/user-attachments/assets/7c99d10c-8adf-4aaf-8e34-3d6422a8659c" />
+
+- **Home Screen Widget:** A dedicated widget for triggering life-saving alerts without opening the app.
+
+## 📸 Screen Specifications 
+
+| Screenshot Type | Description |
+|---|---|
+| **Main Dashboard** | Show the large Red SOS Button and the Saved Contacts list. |
+| **Permissions** | Show the system dialogs for Location, SMS, and Call permissions. |
+| **Alert Sent** | Show the "SOS Active" status text at the bottom. |
+| **Home Screen** | Show the SOS Widget active on your phone's launcher. |
+
+## 🛠 Tech Stack & Permissions
+
+- **Language:** Java
+- **Architecture:** Android Activity Lifecycle, Sensor API, Location Services (GPS/Network).
+- **Storage:** SharedPreferences for persistent contact management.
+- **Permissions Required:**
+  - `SEND_SMS`: To notify contacts without data.
+  - `ACCESS_FINE_LOCATION`: For precise GPS coordinates.
+  - `CALL_PHONE`: To initiate immediate voice calls.
+
+## 🚀 How to Install & Run
+
+1. **Clone the repo:**
+   
