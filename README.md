@@ -5,12 +5,12 @@ A robust, real-time Android emergency application designed to provide immediate 
 ## 🌟 Key Features
 
 - **One-Tap SOS:** Large, high-visibility button for instant activation.
-- <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/21ba6a8d-087b-43e2-8cdc-b67a5222334f" />
+- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/21ba6a8d-087b-43e2-8cdc-b67a5222334f" />
 
 - **Shake Detection:** Built-in accelerometer support to trigger an SOS by shaking the phone—no screen interaction required.
 
 -  <img width="770" height="629" alt="image" src="https://github.com/user-attachments/assets/2dd38198-e096-461a-af34-a030337d7abb" />
-  <img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/939afc90-1d11-4c61-a20c-5f8f8f57207b" />
+  <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/939afc90-1d11-4c61-a20c-5f8f8f57207b" />
 
 - **Multi-Channel Alerts:** Automatically sends emergency messages via **SMS** and **WhatsApp** simultaneously.
 - **Live Location Tracking:** Integrates Google Maps API to send precise GPS coordinates to your saved contacts.
