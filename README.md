@@ -45,5 +45,30 @@ A robust, real-time Android emergency application designed to provide immediate 
 
 ## 🚀 How to Install & Run
 
-1. **Clone the repo:**
+Follow these steps to get a local copy of the project up and running:
+
+### 1. Prerequisites
+* **Android Studio Iguana** (or newer)
+* **Android SDK 34** (Project targets API 34)
+* **Gradle 8.0+**
+
+### 2. Clone the Repository
+Open your terminal or command prompt and run:
+
+### 3. Import into Android Studio
+1. Open **Android Studio**.
+2. Select **File > Open** and navigate to the cloned `SOSApp` folder.
+3. Wait for the **Gradle Sync** to finish (this may take a few minutes as it downloads dependencies like `Material 1.11.0` and `Kotlin 2.2.10`).
+
+### 4. Set Up Permissions
+Since this is an SOS app, it requires specific permissions to function. After launching the app on your device:
+* Allow **Location Access** (to send coordinates).
+* Allow **SMS/Phone Access** (to trigger alerts).
+
+### 5. Run the App
+1. Connect a physical Android device (with **USB Debugging** enabled) or start an Emulator.
+2. Click the **Green Play Button** (Run) in the top toolbar.
+3. **To test Shake Detection:** Shake your physical device firmly. (On Emulator: Use the "Extended Controls" -> "Virtual Sensors" to simulate a shake).
+
+---
    
