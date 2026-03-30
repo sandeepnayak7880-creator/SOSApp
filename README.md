@@ -1,15 +1,14 @@
-<img width="770" height="629" alt="image" src="https://github.com/user-attachments/assets/ce1c2663-8386-4f81-9ada-15d155030874" /># SOSApp - Emergency Response System 🚨
-
+# SOSApp - Emergency Response System 🚨
 A robust, real-time Android emergency application designed to provide immediate assistance during critical situations. This app automates the process of notifying emergency contacts with location data via SMS and WhatsApp.
 
 ## 🌟 Key Features
 
 - **One-Tap SOS:** Large, high-visibility button for instant activation.
-- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/21ba6a8d-087b-43e2-8cdc-b67a5222334f" />
+- <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/21ba6a8d-087b-43e2-8cdc-b67a5222334f" />
 
 - **Shake Detection:** Built-in accelerometer support to trigger an SOS by shaking the phone—no screen interaction required.
 
--  <img width="770" height="629" alt="image" src="https://github.com/user-attachments/assets/2dd38198-e096-461a-af34-a030337d7abb" />
+-  <img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/2dd38198-e096-461a-af34-a030337d7abb" />
   <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/939afc90-1d11-4c61-a20c-5f8f8f57207b" />
 
 - **Multi-Channel Alerts:** Automatically sends emergency messages via **SMS** and **WhatsApp** simultaneously.
