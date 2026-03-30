@@ -15,12 +15,12 @@ A robust, real-time Android emergency application designed to provide immediate 
 - **Live Location Tracking:** Integrates Google Maps API to send precise GPS coordinates to your saved contacts.
 - **Smart Queueing:** If the user has no signal, the app caches the SOS request and sends it automatically once a network connection is restored.
 
-- <img width="770" height="493" alt="image" src="https://github.com/user-attachments/assets/ab289992-e707-49d6-8b95-14fee2003cdc" />
+- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ab289992-e707-49d6-8b95-14fee2003cdc" />
 
 - **Periodic Updates:** Automatically sends follow-up location updates every 5 minutes for 15 minutes.
 - **Emergency Auto-Dial:** Initiates a phone call to primary contacts and a delayed auto-dial to emergency services (112).
 
-- <img width="770" height="571" alt="image" src="https://github.com/user-attachments/assets/7c99d10c-8adf-4aaf-8e34-3d6422a8659c" />
+- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7c99d10c-8adf-4aaf-8e34-3d6422a8659c" />
 
 - **Home Screen Widget:** A dedicated widget for triggering life-saving alerts without opening the app.
 
