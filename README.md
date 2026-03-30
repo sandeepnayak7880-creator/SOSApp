@@ -54,7 +54,7 @@ Follow these steps to get a local copy of the project up and running:
 
 ### 2. Clone the Repository
 Open your terminal or command prompt and run:
-
+       "bash git clone https://github.com/sandeepnayak7880-creator/SOSApp.git"
 ### 3. Import into Android Studio
 1. Open **Android Studio**.
 2. Select **File > Open** and navigate to the cloned `SOSApp` folder.
