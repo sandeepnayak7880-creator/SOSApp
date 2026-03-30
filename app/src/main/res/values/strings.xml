@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SOSApp</string>
+    <string name="emergency_sos">Emergency SOS</string>
+    <string name="sos">SOS</string>
+    <string name="press_button_text">Press the button in emergency</string>
+    <string name="alert_sent_to">Alert Sent to %s</string>
+</resources>
